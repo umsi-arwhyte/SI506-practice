@@ -1,0 +1,39 @@
+{
+  "name": "Luke Skywalker",
+  "height": "172",
+  "mass": "77",
+  "homeworld": {
+    "name": "Tatooine",
+    "climate": "arid",
+    "terrain": "desert",
+    "url": "http://swapi.py4e.com/api/planets/1/"
+  },
+  "films": [
+    {
+      "title": "A New Hope",
+      "episode_id": 4,
+      "url": "http://swapi.py4e.com/api/films/1/"
+    },
+    {
+      "title": "The Empire Strikes Back",
+      "episode_id": 5,
+      "url": "http://swapi.py4e.com/api/films/2/"
+    },
+    {
+      "title": "Return of the Jedi",
+      "episode_id": 6,
+      "url": "http://swapi.py4e.com/api/films/3/"
+    },
+    {
+      "title": "Revenge of the Sith",
+      "episode_id": 3,
+      "url": "http://swapi.py4e.com/api/films/6/"
+    },
+    {
+      "title": "The Force Awakens",
+      "episode_id": 7,
+      "url": "http://swapi.py4e.com/api/films/7/"
+    }
+  ],
+  "url": "https://swapi.py4e.com/api/people/1/"
+}
