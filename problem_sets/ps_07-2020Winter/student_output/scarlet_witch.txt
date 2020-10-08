@@ -1,2 +1,0 @@
-Scarlet Witch is a member of the X-men; Avengers and possesses the following powers:
-['agility', 'dimensional awareness', 'flight', 'longevity', 'energy blasts', 'teleportation', 'telekinesis', 'magic', 'astral projection', 'energy constructs', 'probability manipulation', 'levitation', 'illusions', 'reality warping']

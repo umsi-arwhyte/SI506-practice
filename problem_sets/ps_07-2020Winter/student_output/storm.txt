@@ -1,2 +1,0 @@
-Storm is a member of the X-men and possesses the following powers:
-['cold resistance', 'flight', 'intelligence', 'enhanced senses', 'empathy', 'heat resistance', 'telepathy resistance', 'weather control']
