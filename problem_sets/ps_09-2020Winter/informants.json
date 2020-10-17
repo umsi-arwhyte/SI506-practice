@@ -1,0 +1,846 @@
+{
+  "information_on_rey": [
+    {
+      "eye_color": "blue",
+      "hair_color": "tan",
+      "species_name": "Human",
+      "location": "Quermia",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "white",
+      "hair_color": "grey",
+      "species_name": "Zabrak",
+      "location": "Kamino",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "blue",
+      "hair_color": "black",
+      "species_name": "Ewok",
+      "location": "Shili",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "grey",
+      "hair_color": "silver",
+      "species_name": "Ewok",
+      "location": "Ord Mantell",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "hazel",
+      "hair_color": "tan",
+      "species_name": "Wookiee",
+      "location": "Iridonia",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "yellow",
+      "hair_color": "gold",
+      "species_name": "Ewok",
+      "location": "Zolan",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "yellow",
+      "hair_color": "gold",
+      "species_name": "Ewok",
+      "location": "Zolan",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "grey",
+      "hair_color": "black",
+      "species_name": "Human",
+      "location": "Tholoth",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "yellow",
+      "hair_color": "blonde",
+      "species_name": "Ewok",
+      "location": "Cato Neimoidia",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "white",
+      "hair_color": "brown",
+      "species_name": "Wookiee",
+      "location": "Bestine IV",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "black",
+      "hair_color": "gold",
+      "species_name": "Ewok",
+      "location": "Mirial",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "grey",
+      "hair_color": "none",
+      "species_name": "Zabrak",
+      "location": "unknown",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "yellow",
+      "hair_color": "green",
+      "species_name": "Hutt",
+      "location": "Skako",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "blue",
+      "hair_color": "none",
+      "species_name": "Wookiee",
+      "location": "Shili",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "white",
+      "hair_color": "green",
+      "species_name": "Wookiee",
+      "location": "Tatooine",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "orange",
+      "hair_color": "grey",
+      "species_name": "Hutt",
+      "location": "Cato Neimoidia",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "green",
+      "hair_color": "silver",
+      "species_name": "Human",
+      "location": "Mirial",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "hazel",
+      "hair_color": "gold",
+      "species_name": "Hutt",
+      "location": "Eriadu",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "purple",
+      "hair_color": "green",
+      "species_name": "Wookiee",
+      "location": "Skako",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "orange",
+      "hair_color": "silver",
+      "species_name": "Zabrak",
+      "location": "Trandosha",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "grey",
+      "hair_color": "silver",
+      "species_name": "Zabrak",
+      "location": "Mustafar",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "black",
+      "hair_color": "none",
+      "species_name": "Hutt",
+      "location": "Eriadu",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "blue",
+      "hair_color": "gold",
+      "species_name": "Hutt",
+      "location": "Skako",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "blue",
+      "hair_color": "silver",
+      "species_name": "Hutt",
+      "location": "Quermia",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "hazel",
+      "hair_color": "none",
+      "species_name": "Hutt",
+      "location": "Eriadu",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "white",
+      "hair_color": "grey",
+      "species_name": "Zabrak",
+      "location": "Kamino",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "white",
+      "hair_color": "grey",
+      "species_name": "Human",
+      "location": "Tund",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "hazel",
+      "hair_color": "brown",
+      "species_name": "Human",
+      "location": "Trandosha",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "brown",
+      "hair_color": "blonde",
+      "species_name": "Wookiee",
+      "location": "Felucia",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "white",
+      "hair_color": "silver",
+      "species_name": "Zabrak",
+      "location": "Kashyyyk",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "black",
+      "hair_color": "green",
+      "species_name": "Hutt",
+      "location": "Malastare",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "white",
+      "hair_color": "gold",
+      "species_name": "Wookiee",
+      "location": "Tatooine",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "purple",
+      "hair_color": "none",
+      "species_name": "Zabrak",
+      "location": "Endor",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "green",
+      "hair_color": "green",
+      "species_name": "Ewok",
+      "location": "Bestine IV",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "orange",
+      "hair_color": "none",
+      "species_name": "Ewok",
+      "location": "Geonosis",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "grey",
+      "hair_color": "green",
+      "species_name": "Hutt",
+      "location": "Cerea",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "brown",
+      "hair_color": "gold",
+      "species_name": "Human",
+      "location": "Malastare",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "blue",
+      "hair_color": "brown",
+      "species_name": "Human",
+      "location": "Iktotch",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "brown",
+      "hair_color": "black",
+      "species_name": "Wookiee",
+      "location": "Sullust",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "black",
+      "hair_color": "tan",
+      "species_name": "Human",
+      "location": "Iktotch",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "hazel",
+      "hair_color": "tan",
+      "species_name": "Wookiee",
+      "location": "Iridonia",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "brown",
+      "hair_color": "green",
+      "species_name": "Hutt",
+      "location": "Glee Anselm",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "black",
+      "hair_color": "gold",
+      "species_name": "Wookiee",
+      "location": "Toydaria",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "white",
+      "hair_color": "black",
+      "species_name": "Human",
+      "location": "Polis Massa",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "orange",
+      "hair_color": "silver",
+      "species_name": "Ewok",
+      "location": "Dantooine",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "brown",
+      "hair_color": "grey",
+      "species_name": "Wookiee",
+      "location": "Saleucami",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "green",
+      "hair_color": "gold",
+      "species_name": "Wookiee",
+      "location": "Ord Mantell",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "blue",
+      "hair_color": "tan",
+      "species_name": "Human",
+      "location": "Quermia",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "hazel",
+      "hair_color": "none",
+      "species_name": "Zabrak",
+      "location": "Troiken",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "yellow",
+      "hair_color": "black",
+      "species_name": "Human",
+      "location": "Champala",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "brown",
+      "hair_color": "grey",
+      "species_name": "Hutt",
+      "location": "Sullust",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "blue",
+      "hair_color": "gold",
+      "species_name": "Ewok",
+      "location": "Muunilinst",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "purple",
+      "hair_color": "none",
+      "species_name": "Human",
+      "location": "Skako",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "brown",
+      "hair_color": "blonde",
+      "species_name": "Zabrak",
+      "location": "Umbara",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "brown",
+      "hair_color": "tan",
+      "species_name": "Hutt",
+      "location": "Shili",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "white",
+      "hair_color": "gold",
+      "species_name": "Zabrak",
+      "location": "Kashyyyk",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "blue",
+      "hair_color": "blonde",
+      "species_name": "Ewok",
+      "location": "Kashyyyk",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "yellow",
+      "hair_color": "green",
+      "species_name": "Wookiee",
+      "location": "Serenno",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "blue",
+      "hair_color": "brown",
+      "species_name": "Wookiee",
+      "location": "Kamino",
+      "name": "Rey"
+    },
+    {
+      "eye_color": "green",
+      "hair_color": "blonde",
+      "species_name": "Wookiee",
+      "location": "Tund",
+      "name": "Rey"
+    }
+  ],
+  "information_on_chewbacca": [
+    {
+      "eye_color": "green",
+      "hair_color": "tan",
+      "species_name": "Wookiee",
+      "location": "Umbara",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "white",
+      "hair_color": "blonde",
+      "species_name": "Human",
+      "location": "Haruun Kal",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "blue",
+      "hair_color": "brown",
+      "species_name": "Wookiee",
+      "location": "Kamino",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "white",
+      "hair_color": "green",
+      "species_name": "Zabrak",
+      "location": "Nal Hutta",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "orange",
+      "hair_color": "grey",
+      "species_name": "Human",
+      "location": "Glee Anselm",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "grey",
+      "hair_color": "red",
+      "species_name": "Ewok",
+      "location": "Champala",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "yellow",
+      "hair_color": "brown",
+      "species_name": "Wookiee",
+      "location": "Sullust",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "blue",
+      "hair_color": "tan",
+      "species_name": "Ewok",
+      "location": "Concord Dawn",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "black",
+      "hair_color": "grey",
+      "species_name": "Zabrak",
+      "location": "Zolan",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "hazel",
+      "hair_color": "black",
+      "species_name": "Wookiee",
+      "location": "Dathomir",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "white",
+      "hair_color": "brown",
+      "species_name": "Human",
+      "location": "Malastare",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "white",
+      "hair_color": "red",
+      "species_name": "Wookiee",
+      "location": "Troiken",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "brown",
+      "hair_color": "green",
+      "species_name": "Human",
+      "location": "Dorin",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "black",
+      "hair_color": "black",
+      "species_name": "Human",
+      "location": "Corellia",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "purple",
+      "hair_color": "red",
+      "species_name": "Ewok",
+      "location": "Iktotch",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "hazel",
+      "hair_color": "gold",
+      "species_name": "Ewok",
+      "location": "Ojom",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "green",
+      "hair_color": "silver",
+      "species_name": "Human",
+      "location": "Mirial",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "white",
+      "hair_color": "silver",
+      "species_name": "Ewok",
+      "location": "Utapau",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "hazel",
+      "hair_color": "blonde",
+      "species_name": "Zabrak",
+      "location": "Tatooine",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "purple",
+      "hair_color": "black",
+      "species_name": "Zabrak",
+      "location": "Mon Cala",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "purple",
+      "hair_color": "black",
+      "species_name": "Zabrak",
+      "location": "Mon Cala",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "grey",
+      "hair_color": "black",
+      "species_name": "Ewok",
+      "location": "Eriadu",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "yellow",
+      "hair_color": "none",
+      "species_name": "Hutt",
+      "location": "Shili",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "blue",
+      "hair_color": "none",
+      "species_name": "Zabrak",
+      "location": "Coruscant",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "yellow",
+      "hair_color": "green",
+      "species_name": "Wookiee",
+      "location": "Serenno",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "grey",
+      "hair_color": "black",
+      "species_name": "Human",
+      "location": "Tholoth",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "white",
+      "hair_color": "blonde",
+      "species_name": "Wookiee",
+      "location": "Cato Neimoidia",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "blue",
+      "hair_color": "red",
+      "species_name": "Ewok",
+      "location": "Alderaan",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "black",
+      "hair_color": "silver",
+      "species_name": "Zabrak",
+      "location": "Aleen Minor",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "orange",
+      "hair_color": "brown",
+      "species_name": "Ewok",
+      "location": "Bestine IV",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "yellow",
+      "hair_color": "grey",
+      "species_name": "Hutt",
+      "location": "Polis Massa",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "brown",
+      "hair_color": "red",
+      "species_name": "Wookiee",
+      "location": "Iridonia",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "green",
+      "hair_color": "blonde",
+      "species_name": "Ewok",
+      "location": "Yavin IV",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "black",
+      "hair_color": "gold",
+      "species_name": "Hutt",
+      "location": "Stewjon",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "grey",
+      "hair_color": "silver",
+      "species_name": "Zabrak",
+      "location": "Mustafar",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "black",
+      "hair_color": "red",
+      "species_name": "Zabrak",
+      "location": "Muunilinst",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "grey",
+      "hair_color": "blonde",
+      "species_name": "Wookiee",
+      "location": "Kalee",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "blue",
+      "hair_color": "tan",
+      "species_name": "Human",
+      "location": "Quermia",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "grey",
+      "hair_color": "none",
+      "species_name": "Zabrak",
+      "location": "unknown",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "black",
+      "hair_color": "green",
+      "species_name": "Human",
+      "location": "Ord Mantell",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "green",
+      "hair_color": "blonde",
+      "species_name": "Human",
+      "location": "Felucia",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "purple",
+      "hair_color": "brown",
+      "species_name": "Wookiee",
+      "location": "Chandrila",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "purple",
+      "hair_color": "tan",
+      "species_name": "Zabrak",
+      "location": "Vulpter",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "brown",
+      "hair_color": "blonde",
+      "species_name": "Human",
+      "location": "Bespin",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "white",
+      "hair_color": "none",
+      "species_name": "Wookiee",
+      "location": "Dagobah",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "white",
+      "hair_color": "none",
+      "species_name": "Human",
+      "location": "Cerea",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "black",
+      "hair_color": "silver",
+      "species_name": "Hutt",
+      "location": "Tund",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "purple",
+      "hair_color": "brown",
+      "species_name": "Human",
+      "location": "Kashyyyk",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "orange",
+      "hair_color": "silver",
+      "species_name": "Zabrak",
+      "location": "Trandosha",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "yellow",
+      "hair_color": "brown",
+      "species_name": "Wookiee",
+      "location": "Sullust",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "grey",
+      "hair_color": "red",
+      "species_name": "Wookiee",
+      "location": "Rodia",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "blue",
+      "hair_color": "tan",
+      "species_name": "Wookiee",
+      "location": "Endor",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "brown",
+      "hair_color": "blonde",
+      "species_name": "Human",
+      "location": "Bespin",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "yellow",
+      "hair_color": "tan",
+      "species_name": "Wookiee",
+      "location": "Mygeeto",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "yellow",
+      "hair_color": "tan",
+      "species_name": "Ewok",
+      "location": "Toydaria",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "yellow",
+      "hair_color": "red",
+      "species_name": "Wookiee",
+      "location": "Dantooine",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "brown",
+      "hair_color": "black",
+      "species_name": "Ewok",
+      "location": "Naboo",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "brown",
+      "hair_color": "brown",
+      "species_name": "Human",
+      "location": "Skako",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "grey",
+      "hair_color": "tan",
+      "species_name": "Wookiee",
+      "location": "Ryloth",
+      "name": "Chewbacca"
+    },
+    {
+      "eye_color": "grey",
+      "hair_color": "blonde",
+      "species_name": "Human",
+      "location": "Socorro",
+      "name": "Chewbacca"
+    }
+  ]
+}
