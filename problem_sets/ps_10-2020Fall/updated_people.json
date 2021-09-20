@@ -1,0 +1,107 @@
+{
+  "Rey": {
+    "name": "Rey",
+    "hair_color": "brown",
+    "skin_color": "light",
+    "eye_color": "hazel",
+    "gender": "female",
+    "films": [
+      {
+        "title": "The Force Awakens",
+        "episode_id": 7,
+        "url": "https://swapi.py4e.com/api/films/7/"
+      }
+    ],
+    "url": "https://swapi.py4e.com/api/people/85/"
+  },
+  "Finn": {
+    "name": "Finn",
+    "hair_color": "black",
+    "skin_color": "dark",
+    "eye_color": "dark",
+    "gender": "male",
+    "films": [
+      {
+        "title": "The Force Awakens",
+        "episode_id": 7,
+        "url": "https://swapi.py4e.com/api/films/7/"
+      }
+    ],
+    "url": "https://swapi.py4e.com/api/people/84/"
+  },
+  "C-3PO": {
+    "name": "C-3PO",
+    "hair_color": "n/a",
+    "skin_color": "gold",
+    "eye_color": "yellow",
+    "gender": "n/a",
+    "films": [
+      {
+        "title": "A New Hope",
+        "episode_id": 4,
+        "url": "https://swapi.py4e.com/api/films/1/"
+      },
+      {
+        "title": "The Empire Strikes Back",
+        "episode_id": 5,
+        "url": "https://swapi.py4e.com/api/films/2/"
+      },
+      {
+        "title": "Return of the Jedi",
+        "episode_id": 6,
+        "url": "https://swapi.py4e.com/api/films/3/"
+      },
+      {
+        "title": "The Phantom Menace",
+        "episode_id": 1,
+        "url": "https://swapi.py4e.com/api/films/4/"
+      },
+      {
+        "title": "Attack of the Clones",
+        "episode_id": 2,
+        "url": "https://swapi.py4e.com/api/films/5/"
+      },
+      {
+        "title": "Revenge of the Sith",
+        "episode_id": 3,
+        "url": "https://swapi.py4e.com/api/films/6/"
+      }
+    ],
+    "url": "https://swapi.py4e.com/api/people/2/"
+  },
+  "Chewbacca": {
+    "name": "Chewbacca",
+    "hair_color": "brown",
+    "skin_color": "unknown",
+    "eye_color": "blue",
+    "gender": "male",
+    "films": [
+      {
+        "title": "A New Hope",
+        "episode_id": 4,
+        "url": "https://swapi.py4e.com/api/films/1/"
+      },
+      {
+        "title": "The Empire Strikes Back",
+        "episode_id": 5,
+        "url": "https://swapi.py4e.com/api/films/2/"
+      },
+      {
+        "title": "Return of the Jedi",
+        "episode_id": 6,
+        "url": "https://swapi.py4e.com/api/films/3/"
+      },
+      {
+        "title": "Revenge of the Sith",
+        "episode_id": 3,
+        "url": "https://swapi.py4e.com/api/films/6/"
+      },
+      {
+        "title": "The Force Awakens",
+        "episode_id": 7,
+        "url": "https://swapi.py4e.com/api/films/7/"
+      }
+    ],
+    "url": "https://swapi.py4e.com/api/people/13/"
+  }
+}

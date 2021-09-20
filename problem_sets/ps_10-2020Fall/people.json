@@ -1,0 +1,41 @@
+{
+   "Rey": {
+        "name": "Rey",
+        "hair_color": "",
+        "skin_color": "",
+        "eye_color": "",
+        "gender": "",
+        "films": [],
+        "url": ""
+    },
+    "Finn": {
+        "name": "Finn",
+        "hair_color": "",
+        "skin_color": "",
+        "eye_color": "",
+        "gender": "",
+        "films": [],
+        "url": ""
+
+    },
+    "C-3PO": {
+        "name": "C-3PO",
+        "hair_color": "",
+        "skin_color": "",
+        "eye_color": "",
+        "gender": "",
+        "films": [],
+        "url": ""
+
+    },
+    "Chewbacca": {
+        "name": "Chewbacca",
+        "hair_color": "",
+        "skin_color": "",
+        "eye_color": "",
+        "gender": "",
+        "films": [],
+        "url": ""
+
+    }
+}
