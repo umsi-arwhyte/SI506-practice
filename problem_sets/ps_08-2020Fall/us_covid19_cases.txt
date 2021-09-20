@@ -1,0 +1,57 @@
+State	Cases
+Alabama	189149
+Alaska	15417
+Arkansas	109712
+American Samoa	0
+Arizona	242480
+California	912904
+Colorado	102014
+Connecticut	70446
+District of Columbia	17074
+Delaware	24553
+Florida	784331
+Georgia	356848
+Guam	4628
+Hawaii	14841
+Iowa	122355
+Idaho	62746
+Illinois	400171
+Indiana	172730
+Kansas	82045
+Kentucky	103305
+Louisiana	186216
+Massachusetts	161637
+Maryland	144314
+Maine	6570
+Michigan	190043
+Minnesota	142311
+Missouri	177693
+Northern Mariana Islands	92
+Mississippi	119336
+Montana	30853
+North Carolina	269021
+North Dakota	42483
+Nebraska	68150
+New Hampshire	10768
+New Jersey	234547
+New Mexico	44904
+Nevada	98554
+New York	506674
+Ohio	208937
+Oklahoma	126618
+Oregon	43793
+Pennsylvania	202876
+Puerto Rico	65743
+Rhode Island	32312
+South Carolina	174591
+South Dakota	43000
+Tennessee	256880
+Texas	886820
+Utah	110640
+Virginia	179639
+Virgin Islands	1353
+Vermont	2155
+Washington	105557
+Wisconsin	226705
+West Virginia	23466
+Wyoming	12507
